@@ -28,10 +28,10 @@ An Android app built with Flutter + Firebase that streamlines the railway conces
 
 ### 🔹 [RightsQuest – Learn Human Rights the Fun Way](https://github.com/tejasgadge2504/RightsQuest-APP-Code)
 An AI-powered educational platform for students (Grades 5–10) and corporate Employees to learn about human rights and ethics through gamified storytelling and real-life scenarios.
-- 🧠 Built using LLaMA-2 AI model
+- 🧠 Built using LLaMA-AI model
 - 🎮 Includes interactive quizzes, point system, badge rewards
-- 🌍 Aligns with UNESCO SDGs & Digital India Mission
-- 🏆 2nd Place – Poster Presentation Showcase 2025
+- 🌍 Stories are align with Indian Context
+- 🏆 2nd Place – Poster Presentation Showcase 2024
 
 ---
 
